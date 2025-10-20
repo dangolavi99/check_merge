@@ -1,3 +1,3 @@
 def a = 'SAM'
 
-def b = 'DAN'
+def b = 'THIS IS CHANGED AGAIN'
