@@ -1,3 +1,3 @@
 def a = 'SAM'
 
-def b = 'AVI'
+def b = 'DAN'
